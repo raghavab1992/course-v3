@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Classification using fastai DL lib</title>
+  </head>
+  <body>
+    <h2>Fast AI Image Classication - Predictions</h2>
+    <p>Testing - Returning same images</p>
+	{% for pred in preds %}
+	<div>
+	   <img src ="data:image/png;base64, {{pred['img']}}" >
+	</div>
+	{% endfor %}
+  </body>
+</html>
+
