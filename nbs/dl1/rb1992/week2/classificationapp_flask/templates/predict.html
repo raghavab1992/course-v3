@@ -9,6 +9,7 @@
 	{% for pred in preds %}
 	<div>
 	   <img src ="data:image/png;base64, {{pred['img']}}" >
+	   <p> This is {{pred['imgname']}}</p>
 	</div>
 	{% endfor %}
   </body>
