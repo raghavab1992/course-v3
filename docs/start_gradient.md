@@ -10,7 +10,7 @@ This is a quick guide to starting v3 of the Fast.ai course. With [Gradient](http
 
 [Gradient](https://www.paperspace.com/gradient) is built on top of [Paperspace](https://www.paperspace.com/), a GPU-accelerated cloud platform. 
 
-If you are returning to work and have previously completed the steps below, please go to the [returning to work](http://course-v3.fast.ai/update_gradient.html) section.
+If you are returning to work and have previously completed the steps below, please go to the [returning to work](https://course.fast.ai/update_gradient.html) section.
 
 ## Pricing
 
@@ -84,7 +84,8 @@ For more details, updating the course and the fastai library see "[Returning to 
 The `/storage` folder is your [Persistent Storage](https://support.paperspace.com/hc/en-us/articles/360001468133-Persistent-Storage). Files placed here are available across all Notebooks, Jobs, and Linux VMs (currently free of charge). This repository is perfect for storing datasets, models etc. Note: Persistent Storage is region specific (you'll see the storage region options when creating Notebooks and Jobs).
 
 ### Promotional credit
-Paperspace provides $10 of free Gradient° credit. This code is to be used for Fast.ai students only. In your console, click on Billing and enter the promo code at the bottom right. The promo code for this course is: **FASTAIGR45T**.
+Paperspace provides $10 of free Gradient° credit. This code is to be used for Fast.ai students only. In your console, click on Billing and enter the promo code at the bottom right. The promo code for this course is: **FASTAIGR19**. 
+*Note: the code is valid until Jan 1, 2020*
 
 Note: If you opt for a Gradient 1 Subscription, promotional credit does not apply. [Learn more about Gradient Subscription levels here](https://support.paperspace.com/hc/en-us/articles/360002068913-Gradient-Subscriptions).
 
